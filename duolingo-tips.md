@@ -110,3 +110,18 @@ Common contractions:
 |zu + dem|zum|to the|
 |zu + der|zur|to the|
 
+##Common Phrases
+
+####Simple German present tense
+
+In English, the present tense can be simple or progressive (as in `I eat` or `I am eating`). Both forms translate to just one German present tense form, because there is **no continuous tense in standard German**. So, `she learns` and `she is learning` are both `sie lernt`.
+
+####Wie GEHT'S?
+
+There are many ways to ask someone how he or she is doing. For example: `How are you?`, `How do you do?` and `How is it going?`. In German, the common phrase or idiom uses the verb **gehen** (go):
+
+  > Wie geht es dir? (How are you?)
+
+####WILLKOMMEN CAN BE A FALSE FRIEND
+
+In German, `WILLKOMMEN` mens welcome as in `Welcome to our home`, but it does not mean welcome as in `Thank you - You'er welcome`. The German for the latter case is `Gern geschehen` or `Keine Ursache`.
