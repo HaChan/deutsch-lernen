@@ -125,3 +125,24 @@ There are many ways to ask someone how he or she is doing. For example: `How are
 ####WILLKOMMEN CAN BE A FALSE FRIEND
 
 In German, `WILLKOMMEN` mens welcome as in `Welcome to our home`, but it does not mean welcome as in `Thank you - You'er welcome`. The German for the latter case is `Gern geschehen` or `Keine Ursache`.
+
+##Plurals
+
+####German Plurals - The Nominative Case.
+
+In English, making plurals out of singular nouns is typically as straightforward as adding an `s` or an `es` at the end of the word. In German, the transformation is more complex, and also the articles for each gender change. The following five suggestions can help:
+
+  1. `-e` ending: **most German one-syllable** nouns will need `-e` in their plural form. For example, in the nominative case, `das Brot` (the bread) becomes `die Brote`, and `das Spiel` (the game) becomes `die Spiele`.
+
+  2. `-er` ending: **most masculine** or **neuter nouns** will need the `-er` ending, and there _may be_ umlaut changes. For example, in the nominative case `das Kind` (the child) becomes `die Kinder`, and `der Mann` (the man) becomes `die Männer`.
+
+  3. `-n/-en` ending: **most feminine** nouns will take either `-n` or `-en` in all **four grammatical cases**, with **no umlaut changes**. For example, `die Frau` (the woman) becomes `die Frauen` and `die Kartoffel` becomes `die Kartoffeln`.
+
+  4. `-s` ending: **most foreign-origin nouns** will take the `-s` ending for the plural, **usually** with **no umlaut changes**. For example: `der Chef` (the boss) becomes `die Chefs`.
+
+  5. There is **no change** for **most neuter** or **masculine nouns** that _contain any of these in the singular_: `-chen`, `-lein`, `-el`, or `-er`. There **may be umlaut changes**. For example: `das Mädchen` (the girl) becomes `die Mädchen`, and `die Mutter` (the mother) becomes `die Mütter`.
+
+
+####German Feminine Plurals - Nouns Ending in -in
+
+Feminine nouns that end in `-in` will need `-nen` in the plural. For example, `die Köchin` (the female cook) becomes `die Köchinnen` in its plural form.
