@@ -146,3 +146,25 @@ In English, making plurals out of singular nouns is typically as straightforward
 ####German Feminine Plurals - Nouns Ending in -in
 
 Feminine nouns that end in `-in` will need `-nen` in the plural. For example, `die Köchin` (the female cook) becomes `die Köchinnen` in its plural form.
+
+
+##Adjectives
+
+####Predicate adjectives
+
+_Predicate adjectives_, i.e adjectives that _don't precede a noun_, are **not inflected**:
+
+  > Der Mann ist groß.
+
+  > Die Männer sind groß.
+
+  > Die Frau ist groß.
+
+  > Die Frauen sind groß.
+
+  > Das Haus ist groß.
+
+  > Die Häuser sind groß.
+
+
+The adjective remains in the base form, regardless of number and gender.
