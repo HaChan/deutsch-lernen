@@ -126,6 +126,68 @@ There are many ways to ask someone how he or she is doing. For example: `How are
 
 In German, `WILLKOMMEN` mens welcome as in `Welcome to our home`, but it does not mean welcome as in `Thank you - You'er welcome`. The German for the latter case is `Gern geschehen` or `Keine Ursache`.
 
+##Food
+
+####The German Preposition _am_
+
+The German preposition `am` is the contraction of `an` (at/on) and `dem` (the).  For example:
+
+  > Der Mann isst am (an + dem) Tisch (The man eats at the table)
+
+Since `an` can translate to both _at_ and _on_, `am` can translate to both _at the_ and _on the_, depending on the context. Example:
+
+  > an dem Tisch (at the table)
+
+  context: spatial relationship between things
+
+  > an dem Tag (on that day)
+
+  context: temporal
+
+####The verb _haben_ (to have)
+
+In English, you can say "I'm having bread" when you really mean that you're eating or about to eat bread. **This does not work in German**. The verb `haben` **refer to possession only**. Hence, the sentence:
+
+  > Ich habe Brot
+
+only translates to _I have bread_, not _I'm having bread_. The same applies to drinks:
+
+  > Ich habe Wasser
+
+only translates to _I have water_ not _I'm having water_.
+
+####_Mittagessen_ - lunch or dinner?
+
+_Dinner_ is sometimes used synonymously with _lunch_, but here we are defining `Frühstück` as breakfast, `Mittagessen` as _lunch_, and _dinner / supper_ as _Abendessen / Abendbrot_.
+
+####Compound words
+
+A compound word is a word that **consists of two or more words**. These are **written as one word** (no spaces).
+
+The **gender of a compound noun** is always **determined** by its **last element**. The **last element** is always the **most important one**. All the previous elements merely describe the last element.
+
+  - **die** Auto**bahn** (das Auto + **die** Bahn)
+
+  - **der** Oragen**saft** (die Orange + **der** Saft)
+
+  - **das** Hunde**futter** (der Hund + **das** Futter)
+
+Sometimes, there's a connecting sound (`Fugenlaut`) between two elements. Example:
+
+  > die Orange + der Saft _becomes_ der Orange**n**saft
+
+  > der Hund + das Futter _becomes_ das Hund**e**futter
+
+  > die Liebe + das Lied _becomes_ das Liebe**s**lied
+
+####Cute like sugar!
+
+The word `süß` means _sweet_ when referring to **food**, and _cute_ when referring to **living beings**.
+
+  - Der Zucker ist süß. (The sugar is sweet.)
+
+  - Die Katze ist süß. (The cat is cute.)
+
 ##Plurals
 
 ####German Plurals - The Nominative Case.
