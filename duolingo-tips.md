@@ -230,3 +230,13 @@ _Predicate adjectives_, i.e adjectives that _don't precede a noun_, are **not in
 
 
 The adjective remains in the base form, regardless of number and gender.
+
+##Clothing
+
+####Kleider - dresses or clothes?
+
+`das Kleid` means _the dress_, and `die Kleider` means _the dresses_, but the plural `die Kleider` can also mean _clothes_ or _clothing_. In most cases, _clothing_ (or _clothes_) translates to `Kleidung` (usually _uncountable_, but It's important to be aware that `Kleider` can be used in that sense as well.
+
+####Hose or Hosen?
+
+Both `Hose` and `Hosen` translate to _pants_ (_trousers_ in British English), but they're **not interchangeable**. The singular `Hose` refers to **one pair of pants**, and the plural `Hosen` refers to **multiple pairs of pants**.
