@@ -240,3 +240,45 @@ The adjective remains in the base form, regardless of number and gender.
 ####Hose or Hosen?
 
 Both `Hose` and `Hosen` translate to _pants_ (_trousers_ in British English), but they're **not interchangeable**. The singular `Hose` refers to **one pair of pants**, and the plural `Hosen` refers to **multiple pairs of pants**.
+
+##Accusative Pronouns
+
+####Personal Pronouns in the Accusative Case
+
+Aside from the nominative case, most of the German pronouns are declined in each of the four cases. Like in English, when the subject becomes the object, the pronoun changes. For instance, `ich` changes to `mich` (accusative object) as in `Ich sehe mich` (I see me).
+
+In the accusative case of the _third person pronouns_, **only the masculine gender shows the change**, thus neither the feminine "sie" nor the neuter "es" change. For example, "Er/Sie/Es mag ihn/sie/es" (He/She/It likes him/her/it).
+
+|Nominative|Accusative|
+|:---------|:---------|
+|ich (I)|mich (me)|
+|du (you)|dich (you)|
+|er (he)|ihn (him)|
+|sie (she)|sie (her)|
+|es (it)|es (it)|
+|wir (we)|uns (us)|
+|ihr (you guys)|euch (you guys)|
+|sie (they)|sie (them)|
+|Sie (you)|Sie (you)|
+
+####Demonstrative Pronouns in the Accusative Case
+
+Similarly, **only the masculine gender** shows the change in the **demonstrative pronouns**: `der` (for "that one") changes to `den` but `die` and `das` (for "that one") remain the same.
+
+The demonstrative pronouns in the accusative case are thus: `den` = that one (masculine), `die` = that one (feminine), `das` = that one (neuter), and for the plural, `die` = "these". Take this example: `Er isst den` is "He is eating that one (masculine);" `Er isst die` and `Er isst das` are both "He is eating that one", but for the other two genders.
+
+##Conjunctions
+
+A conjunction like `wenn` (when) or `jedoch` (however) connects two parts of a sentence together. In German, conjunctions do not change with the case (i.e the are not **declinable**).
+
+_Subordinating conjunctions_ combine an **independent clause** with a **dependent clause**; the dependent clause cannot stand on its own and its word order will be different than if it did. For instance in:
+
+    Er ist hungrig, weil er nichts aß` (he is hungry, because he ate nothing)
+
+the clause starting with `weil` is the dependent clause, which would be ordered as `er aß nichts` if it stood by itself.
+
+Coordinating conjunctions form a group of coordinators (`und` = and, `aber` = but), which combine two items of equal importance; here, each clause can **stand on its own** and the word order **does not change**.
+
+Lastly, correlative conjunctions work in pairs to join sentence parts of equal importance. For instance: `entweder...oder` (either...or) can be used like this:
+
+    Der Schuh ist entweder blau oder rot
