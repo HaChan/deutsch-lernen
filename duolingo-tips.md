@@ -269,7 +269,7 @@ The demonstrative pronouns in the accusative case are thus: `den` = that one (ma
 
 ##Conjunctions
 
-A conjunction like `wenn` (when) or `jedoch` (however) connects two parts of a sentence together. In German, conjunctions do not change with the case (i.e the are not **declinable**).
+A conjunction like `wenn` (when) or `jedoch` (however) connects two parts of a sentence together. In German, conjunctions do not change with the case (i.e the are not **declineable**).
 
 _Subordinating conjunctions_ combine an **independent clause** with a **dependent clause**; the dependent clause cannot stand on its own and its word order will be different than if it did. For instance in:
 
@@ -282,3 +282,105 @@ Coordinating conjunctions form a group of coordinators (`und` = and, `aber` = bu
 Lastly, correlative conjunctions work in pairs to join sentence parts of equal importance. For instance: `entweder...oder` (either...or) can be used like this:
 
     Der Schuh ist entweder blau oder rot
+
+##Questions
+
+###Yes/No Questions
+
+Questions can be asked by **switching the subject and verb**. Example:
+
+> Du verstehst das. (You understand this)
+
+Yes/No question form:
+
+> Verstehst du das? (Do you understand this?)
+
+These kinds of questions will generally just elicit yes/no answers.
+
+###W questions
+
+Six W-questions: `Wer` (_Who_), `Was` (_What_), `Wo` (_Where_), `Wann` (_When_), `Warum` (_Why_) and `Wie` (_How_); can be asked in German to elicit more than yes/no answers. Two of the six adverbs are declineable (i.e. change with the case), whereas four are not:
+
+####Wer (Who)
+
+`Wer` is **declineable** and needs to adjust to the four case. It depends on what the question is targeting.
+
+  1. Ask for the **subject of a sentence** (i.e. the nominative object), `wer` remain as it is.
+
+  > Wer sitzt da? (Who is sitting there?)
+
+  2. Ask for the **direct (accusative) object** in a sentence, `wer` changes to `wen` (who/whom)
+
+  > **wen** siehst du? (Whom do you see?); Ich sehe **den** Sohn.
+
+  3. Ask for the **indirect object**, `wer` changes to `wem` (who/to whom) and **adjust to the dative case**.
+
+  > **Wem** hast du den Apfel gegeben? (to whom did you give the apple?); **Dem Mann**
+
+  The declined form of `wer` (`wem`) sounds like the definite article of all masculine and neuter nouns in the dative case (`dem Mann`).
+
+  4. Asking about ownership (genitive case), changes `wer` to `wessen` (whose).
+
+  > **Wessen** Schuhe sind das? (Whose shoes are these?); Das sind die Schuhe **des** Jungen. (These are the boy's shoes)
+
+####Was (What)
+
+`was` decline depending on the four cases:
+
+  1. For **both nominative and accusative cases**, `was` remains the same. It's common to ask:
+
+  > Wer oder was?
+
+  to know more about the **nominative object** and don't know if it is a person (who) or a thing (what). And:
+
+  > Wen oder was?
+
+  is asked to know more about the **accusative object**.
+
+  2. `Was` changes to `wessen` for question about the **genitive object** as:
+
+  > Wessen ist sie schuldig? (What is she guilty of?)
+
+  3. For the dative, `was` changes to a compound of `wo(r)` + preposition. For instance if the verb takes the German preposition `an` (on/about) as in:
+
+  > an etwas denken
+
+  then it should be asked like:
+
+  > Woran denkt er? (what is he think about?)
+
+  `hingehen` is a verb composed of `gehen` + `hin` (go + to) and the question should be:
+
+  > Wohin geht sie? (to where is she going?)
+
+####Wo (Where)
+
+`Wo` is general question word for asking about locations. But when asking for **direction in which someone or something is moving**, `Wohin` is used instead. Example:
+
+> Wo ist mein Schuh? (where is my shoe?)
+
+> Wohin kommt dieser Wein? (Where does this wine go?)
+
+`Wohin` is separable into `Wo` + `hin`. Example:
+
+> Wo ist mein Schuh hin? (Where did my shoe go?)
+
+####Wann (When)
+
+`Wann` (when) **does not change depending on the case**. It _can be used with conjunctions_ such as `seit` (since) or `bis` (till):
+
+> Seit wann haben Sie für Herrn Müller gearbeitet? (Since when have you been working for Mr. Müller?)
+
+> Bis wann geht der Film? (Till when does the movie last?)
+
+####Warum (Why)
+
+`Warum` (why) is also **not declinable**. `Wieso` and `Weshalb` can be used instead of `Warum`.
+
+> Warum ist das Auto so alt? (Why is that car so old?)
+
+equal:
+
+> Wieso ist das Auto so alt?
+
+> Weshalb ist das Auto so alt?
