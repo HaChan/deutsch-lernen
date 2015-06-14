@@ -384,3 +384,45 @@ equal:
 > Wieso ist das Auto so alt?
 
 > Weshalb ist das Auto so alt?
+
+
+##Dative Case
+
+The **indirect object** in a sentence is called the **dative object**. The **indirect object** is the **receiver of the direct (accusative) object**. Example: `Frau` is the indirect (dative) object in:
+
+> Das Mädchen gibt **einer Frau** _den Apfel_
+
+The dative case is also used for certain **dative verbs** such as `danken` (to thank) and `antworten` (to answer), and with **dative prepositions** such as `von` (by/of) and `mit` (with). Example:
+
+> Ich danke**dem Koch** (I thank the cook)
+
+> Wir spielen mit **der Katze** (We play with the cat)
+
+This case is known as the `Wem-Fall` (with whom-case), because to identify the word in the dative case, ask **"With/to whom ...?"** question.
+
+Dative changes all articles for the words, the plural and pronouns. Example: `Frau` is a feminine noun but it will take masculine article to indicate the dative:
+
+> Ich danke `der Frau` (I thank the woman)
+
+|Case|Masculine|Feminine|Neuter|Plural|
+|:---|:--------|:-------|:-----|:-----|
+|Dative|dem|der|dem|den|
+|Dative|einem|einer|einem||
+
+Some masculine nouns add an `-en` or `-n` ending in the dative and in **all other cases besides the nominative**. For example in the dative, it is `dem Jungen` (the boy)
+
+####German Plurals: The Dative Case
+
+There are some exceptions when it comes to pluralizing nouns in the dative case:
+
+  1. In dative case, the **one-syllable** plural noun always adds an `-en` ending (maybe umlaut changes). For "the hands" is `den Händen` and for `the dogs` it is `den Hunden`.
+
+  2. For most masculine or neuter plural nouns, they will end in `-ern` in the dative case (maybe umlaut changes). Example: for "the books" it is `den Büchern`.
+
+  > Der Junge lernt mit **den Büchern** (the boys learn with the books)
+
+  3. Most neuter or masculine nouns ending in `-chen`, `-lein`, `-el` or `-er` end in `-n` in the dative case (maybe umlaut changes). Example: "the windows" it is `den Fernstern`, for "the mothers" it is `den Müttern`
+
+  > Es funktioniert mit **den Fernstern** (it works with the windows)
+
+  > Ich spreche mit **den Müttern**
