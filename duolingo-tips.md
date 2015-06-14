@@ -426,3 +426,37 @@ There are some exceptions when it comes to pluralizing nouns in the dative case:
   > Es funktioniert mit **den Fernstern** (it works with the windows)
 
   > Ich spreche mit **den Müttern**
+
+####Other notes
+
+The words `zu` (close, on. about) and `der` may be contracted to become `zur` (to the)
+
+> Ich gehe zur Toilette (I go to the toilet)
+
+the words `zu` and `dem` may be contracted to become `zum` (to the)
+
+> Er geht zum Bett (he goes to the bed)
+
+##Dative Pronouns
+
+####Personal Pronouns in the Dative Case
+
+|Nominative|Accusative|Dative|
+|:--------|:--------|:--------|
+|ich (I)|mich (me)|mir (to me)
+|du (you)|dich (you)|dir (to you)
+|er (he)|ihn (him)|ihm (to him)|
+|sie (she)|sie (her)|ihr (to her)
+|es (it)|es (it)|ihm (to it)|
+|wir (we)|uns (us)|uns (to us)
+|ihr (you guys)|euch (you guys)|euch (to you guys)
+|sie (they)|sie (them)|ihnen (to them)
+|Sie (you)|Sie (you)|Ihnen (to you)|
+
+Example:
+
+> Ich danke Ihr (**not** Ich danke sie)
+
+####Demonstrative Pronouns in the Dative Case
+
+All four instances of demonstrative pronouns (the three genders and the plural) change in the dative case. For the masculine, the pronoun is `dem` (to/with that), for the feminine it is `der` (to/with that) and for the neuter it is `dem` (to/with that); for the plural it is `denen` (to/with them).
