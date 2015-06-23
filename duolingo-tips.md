@@ -528,3 +528,79 @@ is less extreme than:
 > Der Schüler lernt nichts (the student does not learn anything).
 
 `nichts` can also be a noun if capitalized (`das Nichts` = nothingness).
+
+##Inflected Adjectives
+
+Adjectives are **only inflected** when they **come before a noun**:
+
+> Der Käse ist alt.
+
+> Das ist ein **alter Käse**.
+
+There are three declension classes:
+
+####Strong Inflection
+
+
+Strong inflection is used:
+
+  - When **no article is used**
+
+  - When a **quantity is indicated** by:
+
+    - `etwas` (some; somewhat), `mehr` (more)
+
+    - `wenig-` (few), `viel-` (much; many), `mehrer-` (several; many), `einig-` (some)
+
+    - **a number** (greater than one, i.e. with no endings)
+
+    - **non inflectable phrases**: `ein paar` (a couple; a few), `ein bisschen` (a bit; a little bit)
+
+The **adjective endings** are the **same as** the **definite article endings**, apart from the adjectival ending `-en` in the masculine and neuter genitive singular.
+
+||Masculine|Neuter|Feminine|Plural|
+|--------|--------|--------|--------|--------|
+|Nominative|alt**er**|alt**es**|alt**e**|alt**e**|
+|Accusative|alt**en**|alt**es**|alt**e**|alt**e**|
+|Dative|alt**em**|alt**em**|alt**er**|alt**en**|
+|Genitive|alt**en**|alt**en**|alt**er**|alt**er**|
+
+##Mixed Inflection
+
+Mixed inflection is used **after**:
+
+  - **indefinite articles** `ein-`, `kein-`
+
+  - **possessive determiners** `mein-`, `dein-`, `sein-` etc.
+
+**Nominative and accusative singular endings follow the definite article**; all other forms end with `-en`.
+
+||Masculine|Neuter|Feminine|Plural|
+|--------|--------|--------|--------|--------|
+|Nominative|alt**er**|alt**es**|alt**e**|alt**en**|
+|Accusative|alt**en**|alt**es**|alt**e**|alt**en**|
+|Dative|alt**en**|alt**en**|alt**en**|alt**en**|
+|Genitive|alt**en**|alt**en**|alt**en**|alt**en**|
+
+####Weak Inflection
+
+Weak inflection is used after:
+
+  - **definite articles** (`der`, `die`, `das`, `etc`)
+
+  - `derselb-` (the same), `derjenig-` (the one)
+
+  - `dies-` (this/that), `jen-` (that), `jeglich-` (any), `jed-` (every), which decline like the definite article.
+
+  - `manch-` (some), `solch-` (such), `welch-` (which), which decline like the definite article.
+
+  - `alle` (all)
+
+Five endings in the nominative and accusative cases end with `-e`, all others with `-en`:
+
+||Masculine|Neuter|Feminine|Plural|
+|--------|--------|--------|--------|--------|
+|Nominative|alt**e**|alt**e**|alt**e**|alt**en**|
+|Accusative|alt**en**|alt**e**|alt**e**|alt**en**|
+|Dative|alt**en**|alt**en**|alt**en**|alt**en**|
+|Genitive|alt**en**|alt**en**|alt**en**|alt**en**|
