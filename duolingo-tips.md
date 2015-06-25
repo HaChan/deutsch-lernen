@@ -604,3 +604,23 @@ Five endings in the nominative and accusative cases end with `-e`, all others wi
 |Accusative|alt**en**|alt**e**|alt**e**|alt**en**|
 |Dative|alt**en**|alt**en**|alt**en**|alt**en**|
 |Genitive|alt**en**|alt**en**|alt**en**|alt**en**|
+
+##German You: du, ihr, Sie
+
+There are three way of saying _"you"_ in German:
+
+If people are familiar with each other, they use `du` (which is called `duzen`). For example: if talking to the mother. one say:
+
+> Hast du jetzt Zeit, Mama? (do you have any time now, Mommy?)
+
+If they are not familiar or still wish to stay formal and express respect, use `Sie` (so-called `siezen`). For example: address a familiar professor:
+
+> Haben Sie jetzt Zeit, Herr Smith (do you have time now, Mr Smith)
+
+The person who is addressed with a `sie` has to offer the other person a `du`
+
+####ihr
+
+The German `ihr` is the informal plural of _"you"_ like in:
+
+> Tom und Sam, habt ihr Zeit? (Tom and Sam, do you have time?)
