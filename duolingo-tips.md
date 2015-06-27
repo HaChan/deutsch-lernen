@@ -624,3 +624,37 @@ The person who is addressed with a `sie` has to offer the other person a `du`
 The German `ihr` is the informal plural of _"you"_ like in:
 
 > Tom und Sam, habt ihr Zeit? (Tom and Sam, do you have time?)
+
+##Occupations
+
+####Student or Schüler?
+
+A `Student` is a **university student** and a `Schüler` is a **pupil/student at a primary, secondary or high school**. Students attending other types of schools such as language or dancing schools may also be called `Schüler`.
+
+####Dropping articles
+
+When talking about your or someone else's profession in sentences such as:
+
+> _I'm a teacher or She's a judge_
+
+German speakers usually drop the indefinite article (`ein/eine`). It sounds more natural to say:
+
+> Ich bin Lehrer
+
+and
+
+> Sie ist Richterin
+
+than
+
+> Ich bin ein Lehrer
+
+and
+
+> Sie ist eine Richterin
+
+If there is an adjective, the article can't be dropped:
+
+> Er ist ein schlechter Arzt (He's a bad doctor)
+
+The definite articles (`der/das/die`) can not be dropped.
